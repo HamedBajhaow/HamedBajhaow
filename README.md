@@ -14,6 +14,9 @@
 
 </div>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=enghamed)
+![GitHub followers](https://img.shields.io/github/followers/enghamed)
+
 ---
 
 ## 🚀 About Me
