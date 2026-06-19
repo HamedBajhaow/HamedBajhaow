@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/enghamed/enghamed/main/banner.png" width="100%">
 <p align="center">
   <img src="banner.png" alt="Hamed Bajahaw Banner">
 </p>
