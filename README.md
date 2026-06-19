@@ -14,9 +14,9 @@
 
 </div>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=enghamed)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HamedBajhaow)
 
-![GitHub followers](https://img.shields.io/github/followers/enghamed)
+![GitHub followers](https://img.shields.io/github/followers/HamedBajhaow)
 
 ---
 
